@@ -128,7 +128,7 @@ To  demonstrate  the  results  qualitatively,  we  generate  saliency  maps  for
 
 ## Contributions
 
-This work was collaboratively conducted by Nitu Jha
+This work was is conducted by Nitu Jha.
 ### Citation
 ```
 @article{covidaid,
